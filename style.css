@@ -33,6 +33,11 @@ h5{
     font-size: 40px;
     color: white;
 }
+h6{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(65, 62, 62);
+}
 .color-hightlight{
     color: #F65D58;
 }
@@ -87,9 +92,9 @@ section{
 .project-box img{
     width: 100%;
 }
-/* .contact{
-
-} */
+.contact{
+    margin-top: 50px;
+}
 .work-inquiry{
     background-image: url(images/Group_33094_1.png);
     background-repeat: no-repeat;
@@ -98,7 +103,6 @@ section{
     width: 60%;
     height: 40%;
     padding: 10px;
-    /* border: 3px solid red; */
 }
 .tittle{
     width: 40%;
@@ -109,4 +113,18 @@ section{
     width: 40%;
     float: right;
     margin-top: 75px;
+}
+.contact2{
+    margin-top: 280px;
+    text-align: center;
+    height: 100px;
+    line-height: 0px;
+}
+.contact2 img{
+    height: 36px;
+    width: 36.04px;
+}
+.contact2 p{
+    font-size: 36px;
+    font-weight: 600;
 }
